@@ -1,0 +1,2 @@
+### GETTING DATA
+GET http://localhost:3434
